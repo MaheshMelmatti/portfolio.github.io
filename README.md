@@ -1,6 +1,6 @@
 # Welcome to My Project
 
-![Waste Management and Recycling Automation](daaprojectpic.png)
+![Waste Management and Recycling Automation](daaprojectpic.png.png)
 
 ## The Waste Management and Recycling Automation Project
 
@@ -37,9 +37,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 <dl>
 <dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
+<dd>Algorithmic Lab</dd>
 <dt>Course Code</dt>
-<dd>24ECAP202</dd>
+<dd>24ECSP205</dd>
 <dt>Name</dt>
 <dd>Mahesh Melmatti</dd>
 <dt>SRN</dt>
