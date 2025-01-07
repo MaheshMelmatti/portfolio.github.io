@@ -1,4 +1,4 @@
-# portfolio.github.io   ## Portfolio
+# portfolio.github.io  
 
 ### Hello, I'm Mahesh Melmatti 👋
 
