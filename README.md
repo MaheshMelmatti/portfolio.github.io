@@ -1,17 +1,28 @@
-# portfolio.github.io  
+# Welcome to My Project
 
-### Hello, I'm Mahesh Melmatti 👋
+![Waste Management and Recycling Automation](wastemag.png)
+
+## The Waste Management and Recycling Automation Project
+
+The Waste Management and Recycling Automation project is designed to address the growing challenges of waste disposal and recycling. It features four key modules:
+
+- *Waste Generation Monitoring:* Tracks and logs waste production in real-time.
+- *Route Optimization:* Ensures efficient planning for collection vehicles to minimize fuel usage and operational costs.
+- *Waste Classification:* Segregates waste into specific types for recycling or disposal.
+- *Selling Recycled Products:* Focuses on marketing and selling recycled materials and eco-friendly products to promote a circular economy.
+
+This system aims to enhance sustainability, reduce environmental impact, and optimize waste management processes.
+     
+# wastemanagement.github.io  
+
+## Portfolio
+
+### Hello, Srujan Kapale 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠 Projects
-- *Project 1*: Route Optimisation
-- 
-A Route Management System (RMS) in Design Analysis and Algorithm is a framework used to plan, optimize, and analyze routes in a network, such as transportation, logistics, or communication systems. It involves:
-
-Design: Representing the problem as a graph, where nodes are locations and edges are paths with costs like distance or time.
-Algorithms: Applying efficient algorithms like Dijkstra’s, A*, or Bellman-Ford for shortest paths, or optimization techniques for multi-constraint problems.
-Analysis: Evaluating performance based on time complexity, space complexity, and system constraints.
+- Project 1: A Waste Management and Recycling Automation System include 4 modules:*Waste generation monitoring(monitors waste generation), **Route optimization(planning and executing the  most efficient routes for waste collection vehicle), **Waste Classification(segregate all the waste and send it to particular industry), and **Selling Recycled Products*(Sell the recycled products). The Waste Management and Recycling Automation system streamlines waste handling through efficient monitoring, classification, and collection routes. It also promotes sustainability by recycling materials and selling eco-friendly products.
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -20,7 +31,7 @@ Analysis: Evaluating performance based on time complexity, space complexity, and
 
 ## 🌐 Find Me Online
 - [GitHub](https://maheshmelmatti.github.io/wastemanagement.github.io/)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+
 
 ## Portfolio Topic
 
@@ -37,7 +48,7 @@ Analysis: Evaluating performance based on time complexity, space complexity, and
 <dd>Prof.Vaishali Parab</dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
-<dt>Topic: Route Optimisation</dt>
+<dt>Waste Management and Recycling Automation/COMPUTER SCIENCE</dt>
 </dl>
 
 <br> 
