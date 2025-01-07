@@ -19,7 +19,7 @@ Analysis: Evaluating performance based on time complexity, space complexity, and
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://maheshmelmatti.github.io/portfolio.github.io/)
+- [GitHub](https://maheshmelmatti.github.io/wastemanagement.github.io/)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ## Portfolio Topic
