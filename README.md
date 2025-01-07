@@ -1,6 +1,6 @@
 # Welcome to My Project
 
-![Waste Management and Recycling Automation](wastemag.png)
+![Waste Management and Recycling Automation](daaprojectpic.png)
 
 ## The Waste Management and Recycling Automation Project
 
@@ -17,7 +17,7 @@ This system aims to enhance sustainability, reduce environmental impact, and opt
 
 ## Portfolio
 
-### Hello, Srujan Kapale 👋
+### Hello, Mahesh Melmatti 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
