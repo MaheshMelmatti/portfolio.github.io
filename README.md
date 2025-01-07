@@ -48,7 +48,7 @@ Analysis: Evaluates the system's performance by analyzing cost-efficiency, envir
 <dt>Course Instructor</dt>
 <dd>Dr.Vaishali Parab</dd>
 <dt>University</dt>
-<dd>KLE Tachnological University</dd>
+<dd>KLE Technological University</dd>
 <dt>Topic: Route Optimisation</dt>
 </dl>
 
