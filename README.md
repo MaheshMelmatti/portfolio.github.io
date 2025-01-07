@@ -34,7 +34,7 @@ Analysis: Evaluating performance based on time complexity, space complexity, and
 <dt>SRN</dt>
 <dd>02FE23BCS189</dd>
 <dt>Course Instructor</dt>
-<dd>Dr.Vaishali Parab</dd>
+<dd>Prof.Vaishali Parab</dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
 <dt>Topic: Route Optimisation</dt>
