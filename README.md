@@ -40,7 +40,7 @@ Analysis: Evaluates the system's performance by analyzing cost-efficiency, envir
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECSP205</dd>
 <dt>Name</dt>
 <dd>Mahesh Melmatti</dd>
 <dt>SRN</dt>
