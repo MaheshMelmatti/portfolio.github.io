@@ -50,7 +50,6 @@ Analysis: Evaluates the system's performance by analyzing cost-efficiency, envir
 <dt>University</dt>
 <dd>KLE Tachnological University</dd>
 <dt>Topic: Route Optimisation</dt>
-<dd>Google</dd>
 </dl>
 
 <br> 
