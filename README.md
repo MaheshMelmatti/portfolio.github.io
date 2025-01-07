@@ -13,18 +13,6 @@ Design: Representing the problem as a graph, where nodes are locations and edges
 Algorithms: Applying efficient algorithms like Dijkstra’s, A*, or Bellman-Ford for shortest paths, or optimization techniques for multi-constraint problems.
 Analysis: Evaluating performance based on time complexity, space complexity, and system constraints.
 
-- *Project 2*: Selling Recycled products
-- 
-Selling Recycled Products in Design, Analysis, and Algorithm involves developing a computational framework to optimize the production, pricing, and distribution of recycled goods to maximize profits while minimizing environmental impact.
-
-Design: Models the system by incorporating supply chains, production costs, and consumer demand. It involves identifying key components like raw material availability, processing facilities, and target markets.
-
-Algorithm: Utilizes optimization techniques such as linear programming, greedy algorithms, or machine learning to determine optimal pricing strategies, inventory management, and distribution routes. Algorithms can also predict demand and identify cost-effective recycling processes.
-
-Analysis: Evaluates the system's performance by analyzing cost-efficiency, environmental benefits, and market reach. Factors like time complexity of algorithms and adaptability to varying demand patterns are assessed.
-- 
-
-
 ## 🚀 Skills
 - C++, Python, JavaScript
 - Data Structures and Algorithms
